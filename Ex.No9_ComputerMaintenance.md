@@ -1,4 +1,4 @@
-![ComputerMaintenance_4](https://github.com/user-attachments/assets/bed07b16-ca1e-4274-b9bd-c5195724bc23)# Ex.No: 9  Logic Programming –  Computer Maintenance Expert System
+
 ### DATE:   
 23/09/2024
 ### REGISTER NUMBER : 
