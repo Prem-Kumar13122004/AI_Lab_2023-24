@@ -3,6 +3,7 @@
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
+```
 1. Start the program
 2. Create the graph by using adjacency list representation
 3. Define a function bfs and take the set “visited” is empty and “queue” is empty
@@ -11,7 +12,12 @@ To write a python program to implement Breadth first Search.
 6.  Creating loop to print the visited node.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
 8.   Stop the program.
-   ```
+
+
+
+
+
+
 
 
 
