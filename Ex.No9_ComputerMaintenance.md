@@ -23,6 +23,9 @@ Write a Prolog program to build a computer maintenance expert system.
 
 
 
+
+
+
 ```
 ### Program:
 ```
