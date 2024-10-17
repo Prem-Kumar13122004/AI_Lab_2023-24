@@ -31,6 +31,10 @@ treeDepth = math.log(len(scores), 2) # calculate depth of node log 8 (base 2) = 
 print("The optimal value is : ", end = "")
 print(minimax(0, 0, True, scores, treeDepth))
 ```
+\n
+\n
+\n
+\n
 ### Output:
 ![280924447-3e65e99e-ec31-4185-9af7-47272d6540e2](https://github.com/user-attachments/assets/d655893e-935b-4fdd-a077-1c36324d179f)
 
