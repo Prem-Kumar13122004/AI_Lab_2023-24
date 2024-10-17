@@ -12,7 +12,21 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 7.  Specify the score value of leaf nodes and Call the minimax function.
 8.  Print the best value of Max player.
 9.  Stop the program. 
+```
 
+
+
+
+
+
+
+
+
+
+
+
+
+```
 ### Program:
 ```
 MAX, MIN = 1000, -1000
