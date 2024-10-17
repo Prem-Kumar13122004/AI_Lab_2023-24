@@ -39,7 +39,15 @@ eats(bill,peanuts).
 ### OUTPUT:
 ![Screenshot 2024-03-09 160515](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/246b8c5b-5caf-49a0-8086-9f247558610c)
 
+```
 
+
+
+
+
+
+
+```
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -63,6 +71,12 @@ course(bk301,dept(havefun)).
 ### OUTPUT: 
 ![Screenshot 2024-03-09 160112](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/e265a131-e4fc-4da6-8bd1-a348f175d071)
 
+
+```
+
+
+
+```
 ### Task 3:
 Consider the statement <br> 
 “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
