@@ -26,6 +26,12 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 
 
 
+
+
+
+
+
+
 ```
 ### Program:
 ```
@@ -60,7 +66,11 @@ print("The optimal value is:", minimax(0, 0, True, values, MIN, MAX))
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/cc10ce8d-a671-4efd-89f4-aa2bf889fff8)
+```
 
+
+
+```
 
 ### Result:
 Thus the best score of max player was found using Alpha Beta Pruning.
