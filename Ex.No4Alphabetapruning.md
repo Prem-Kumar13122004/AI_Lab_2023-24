@@ -24,14 +24,6 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 
 
 
-
-
-
-
-
-
-
-
 ```
 ### Program:
 ```
