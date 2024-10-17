@@ -54,14 +54,6 @@ halfsubtractor(A, B, Difference, Borrow):-
     xor(A, B, Difference),
     not(A, NA),
     and(NA, B, Borrow).
-
-
-
-
-
-
-
-
 ```
 
 
@@ -72,6 +64,15 @@ halfsubtractor(A, B, Difference, Borrow):-
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/98b478b2-476a-4361-9360-dff1b798a2e3)
+```
+
+
+
+
+
+
+
+```
 
 
 
