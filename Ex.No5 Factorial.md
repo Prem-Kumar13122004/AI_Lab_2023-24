@@ -31,8 +31,6 @@ factorial(A,B) :-
 
 
 
-
-
 ```
 
 ### Output:
