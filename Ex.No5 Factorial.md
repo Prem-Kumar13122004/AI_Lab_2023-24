@@ -54,6 +54,10 @@ factorial(A,B) :-
 
 
 
+
+
+
+
 ```
 
 ### Result:
