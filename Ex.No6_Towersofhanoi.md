@@ -11,7 +11,15 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 6.        ii)	Move  Nth disk from X to Y
 7.        iii)	Move  N-1 disks from Y to X.
 8. Run the program  to find answer of  query.
+```
 
+
+
+
+
+
+
+```
 ### Program:
 ```
 move(1,X,Y,_) :-  
@@ -26,6 +34,20 @@ move(N,X,Y,Z) :-
     move(M,X,Z,Y), 
     move(1,X,Y,_), 
     move(M,Z,Y,X).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 ### Output:
 
