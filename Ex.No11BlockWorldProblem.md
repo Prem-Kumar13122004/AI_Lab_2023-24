@@ -97,6 +97,12 @@ Step 10 : Obtain the plan for given problem.<br>
 
 
 ```
+```
 
+
+
+
+
+```
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
