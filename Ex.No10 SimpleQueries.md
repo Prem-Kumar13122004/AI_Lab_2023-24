@@ -22,6 +22,10 @@ Construct the FOL representation for the following sentences <br>
 
 
 
+
+
+
+
 ```
 ### PROGRAM :
 ```
