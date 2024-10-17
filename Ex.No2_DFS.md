@@ -1,6 +1,5 @@
-# Ex.No: 2  Implementation of Depth First Search
-### DATE:                                                                            
-### REGISTER NUMBER : 
+# Ex.No: 2  Implementation of Depth First Search                                                                           
+### REGISTER NUMBER : 212222040123
 ### AIM: 
 To write a python program to implement Depth first Search. 
 ### Algorithm:
