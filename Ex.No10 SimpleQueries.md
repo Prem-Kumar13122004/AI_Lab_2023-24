@@ -17,7 +17,12 @@ Construct the FOL representation for the following sentences <br>
 3.	Chicken is a food.  <br> 
 4.	Sue eats everything Bill eats. <br> 
 5.	 Bill eats peanuts  <br> 
-   Convert into clause form and Prove that John like Apple by using Prolog. <br> 
+   Convert into clause form and Prove that John like Apple by using Prolog. <br>
+   ```
+
+
+
+```
 ### PROGRAM :
 ```
 likess(john,X):-food(X).
@@ -88,6 +93,19 @@ american(west).
 ### OUTPUT:
 ![Screenshot 2024-03-09 160724](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/fc423f71-3f84-46dc-befe-daea77912bbb)
 
+```
 
+
+
+
+
+
+
+
+
+
+
+
+```
 ### RESULT:
 Thus the prolog programs were executed successfully and the answer of query was found.
