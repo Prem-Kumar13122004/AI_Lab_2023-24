@@ -109,6 +109,10 @@ american(west).
 
 ### OUTPUT:
 ![Screenshot 2024-03-09 160724](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/fc423f71-3f84-46dc-befe-daea77912bbb)
+```
 
+
+
+```
 ### RESULT:
 Thus the prolog programs were executed successfully and the answer of query was found.
