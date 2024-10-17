@@ -26,6 +26,9 @@ Step 10 : Obtain the plan for given problem.<br>
 
 
 
+
+
+
 ```
 ### Program:
 ```
@@ -67,7 +70,19 @@ Step 10 : Obtain the plan for given problem.<br>
  (:init (on-table a) (on-table b) (clear a) (clear b) (arm-empty))
  (:goal (and (on a b))))
 ```
+```
 
+
+
+
+
+
+
+
+
+
+
+```
 ### Output/Plan:
 ![image](https://github.com/Maheswarikarthi/AI_Lab_2023-24/assets/127172770/9f20370c-d007-4c70-906b-602e78a20aac)
 
