@@ -17,7 +17,15 @@ Write a mini-max search algorithm to find the optimal value of MAX Player from t
 
 
 
-    ``` 
+    ```
+    ```
+
+
+
+
+
+
+    ```
 ### Program:
 ```
 import math
