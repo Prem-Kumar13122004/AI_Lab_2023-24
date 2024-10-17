@@ -19,11 +19,28 @@ factorial(A,B) :-
  C is A-1,
  factorial(C,D),
  B is A*D.
+
+
+
+
+
 ```
 
 ### Output:
 ![316253264-9c1dec7b-e4c6-487a-b313-b3a36b71d3d6](https://github.com/user-attachments/assets/40de699f-ca41-4de1-bd0d-8fb435765c52)
+```
 
+
+
+
+
+
+
+
+
+
+
+```
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
